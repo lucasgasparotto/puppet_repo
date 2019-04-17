@@ -1,0 +1,3 @@
+[submodule "Exercises/Class"]
+	path = Exercises/Class
+	url = https://github.com/lucasgasparotto/puppet_repo.git
